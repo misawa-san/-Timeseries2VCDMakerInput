@@ -3,6 +3,7 @@
 
 # how to translate a time serias data to the input format of VcdMaker
 > ./csvConv.exe input-time-series-datas.csv
+
  -> input-time-series-datas.txt will be created!
  
  ex) ./csvConv.exe simout.csv
@@ -16,6 +17,7 @@ https://vcdmaker.org/
 
 # how to translate the input format of vcdMaker
 > .\vcdMaker -t ms -o .\output\output.vcd -u vcdMaker.xml .\input\simout.txt
+
   -> output.vcd will be created by vcdMaker!
 
 # gtkWave
