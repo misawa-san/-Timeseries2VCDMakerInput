@@ -7,6 +7,7 @@
  -> input-time-series-datas.txt will be created!
  
  ex) ./csvConv.exe simout.csv
+ 
      -> simout.txt will be created by csvConv.exe !
         simout.csv : Please check sample folder.
         
