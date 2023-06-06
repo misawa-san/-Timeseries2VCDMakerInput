@@ -17,7 +17,7 @@ Thank you very much!
 https://vcdmaker.org/
 
 # how to translate the input format of vcdMaker
-> .\vcdMaker -t ms -o .\output\output.vcd -u vcdMaker.xml .\input\simout.txt
+> .\vcdMaker -t ms -o .\output\output.vcd -u simout.xml .\input\simout.csv
 
   -> output.vcd will be created by vcdMaker!
 
